@@ -1,4 +1,4 @@
 1Git is a version control system.
-1Git is free software.
+1Git is free software under GPL.
 
 test!
