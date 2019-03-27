@@ -2,3 +2,4 @@
 1Git is free software under GPL.
 Git has a mutable index called stage
 test!
+Creating a new branch is quick
